@@ -1,0 +1,29 @@
+.titulo{
+    text-align: center;
+    color: #ffffff;
+}
+.menu{
+    text-align: right;
+    color: #ffffff;
+}
+.texto{
+    text-align: center;
+}
+.carta{
+    text-align: left;
+}
+.img{
+    text-align: center;
+}
+.formulario{
+    text-align: right
+    
+}
+header{
+    background-color: brown;
+}
+.logo{
+    text-align: left;
+    color: #ffffff;
+
+}
